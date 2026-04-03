@@ -180,7 +180,7 @@ No build tools or dependencies required.
 ## 🌟 Why This Project Stands Out
 
 * Real-world API-driven application
-* Built بالكامل باستخدام Vanilla JavaScript
+* Built entirely using Vanilla JavaScript
 * Clean architecture and separation of concerns
 * Practical and user-focused use case
 * Strong demonstration of core front-end engineering skills
