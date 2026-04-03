@@ -195,4 +195,5 @@ This is not a static project — it is a **functional, data-driven application**
 Frontend Developer | Software Engineering Portfolio
 
 🔗 https://github.com/Ahmed-Mohamed-Abdelaziz-Nassar
+
 🔗 https://www.linkedin.com/in/ahmed-mohamed-abdelaziz-nassar/
