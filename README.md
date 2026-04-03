@@ -9,7 +9,7 @@ The project demonstrates strong front-end engineering fundamentals including API
 ## 🔗 Live Demo
 [🚀 View Live Application](https://prayer-times-and-quran.netlify.app/)
 
-https://prayer-times-and-quran.netlify.app/
+#https://prayer-times-and-quran.netlify.app/
 ---
 
 ## 🚀 Key Features
