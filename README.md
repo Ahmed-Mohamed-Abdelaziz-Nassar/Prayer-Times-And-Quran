@@ -5,8 +5,11 @@ A production-ready **front-end web application** that integrates real-time APIs 
 The project demonstrates strong front-end engineering fundamentals including API integration, state management, and multi-page architecture — all built using **Vanilla JavaScript** without frameworks.
 
 ---
+
 ## 🔗 Live Demo
 [🚀 View Live Application](https://prayer-times-and-quran.netlify.app/)
+https://prayer-times-and-quran.netlify.app/
+---
 
 ## 🚀 Key Features
 
